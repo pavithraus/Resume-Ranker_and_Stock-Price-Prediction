@@ -60,7 +60,7 @@ The system analyzes key factors like **similarity score, keyword match, experien
 
 **📌 Home Page**
 
-![home page](https://github.com/user-attachments/assets/af9e9395-dbc8-472d-83d2-d615eec59b8c)
+![home page](https://github.com/user-attachments/assets/4615050d-9404-4278-8623-da134cdc6b7c)
 
 
 **📂 Input Page** (Upload Resume & Job Description)
@@ -70,7 +70,8 @@ The system analyzes key factors like **similarity score, keyword match, experien
 
 **📊 Result Page** (Ranked Resumes with bar Meters)
 
-![result](https://github.com/user-attachments/assets/82aa5b17-913c-45bb-aef8-8cf06e3f6fca)
+![result](https://github.com/user-attachments/assets/6f672940-6fc1-42cf-bd92-3e413b37a94f)
+
 
 
 ---
