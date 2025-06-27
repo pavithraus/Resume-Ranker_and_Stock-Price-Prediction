@@ -19,7 +19,7 @@ An interactive stock prediction web app powered by an LSTM (Long Short-Term Memo
 
 ## 📁 Folder Structure
 
-### stock_forecast_app
+### Stock Price Predictor
 1. app
    - lstm_app.py # Streamlit dashboard application
    - stock_predictor.py # LSTM training script
@@ -60,10 +60,14 @@ Make sure to use compatible versions (e.g., TensorFlow 2.11, Keras 2.11) and Num
 ---
 
 ## 📸 Screenshots & Visuals
-- Actual vs Predicted
-- Model Evaluation
-- Training vs Test
-- Training vs Validation Loss
+- Actual vs Predicted ![Actual vs Predicted](https://github.com/user-attachments/assets/18d823da-229b-4f87-8dcf-1de6ff93dfdb)
+
+- Model Evaluation![Model Evaluation](https://github.com/user-attachments/assets/87664c4d-573c-4586-ab8f-97fc205cc6af)
+
+- Training vs Test![Training vs Test](https://github.com/user-attachments/assets/dd7cded5-cde7-4ed8-835f-989a2244ed18)
+
+- Training vs Validation Loss![Training vs Validation Loss](https://github.com/user-attachments/assets/c6c442c0-ed8f-467e-98cc-278767f200b6)
+
 
 ---
 ## 🎥 Streamlit Demo
