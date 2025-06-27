@@ -86,3 +86,14 @@ Make sure to use compatible versions (e.g., TensorFlow 2.11, Keras 2.11) and Num
 
 - 📊 Metrics: R² Score, RMSE, MAE
 
+---
+
+## ✅ Conclusion
+
+This project demonstrates how deep learning, specifically Long Short-Term Memory (LSTM) models, can be effectively used for time series forecasting in the stock market domain. By integrating a trained LSTM model with an interactive Streamlit application, users are empowered to explore stock data, visualize model performance, and generate future predictions in a flexible and accessible manner.
+
+The application highlights key machine learning concepts such as data preprocessing, sequence modeling, model evaluation, and real-world deployment. While the predictions are educational and not financial advice, this project serves as a strong foundation for further enhancements such as integrating sentiment analysis, real-time updates, or ensemble modeling for improved accuracy.
+
+Overall, the project provides a practical, hands-on approach to understanding the power and limitations of deep learning in financial forecasting.
+
+
