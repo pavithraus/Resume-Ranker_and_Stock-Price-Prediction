@@ -1,8 +1,8 @@
 # Resume-Ranker_and_Stock-Price-Prediction
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Resume Ranker%20-43.1-blue?style=flat-square" alt="Project 1">
-    <img src="https://img.shields.io/badge/Stock Price Prediction%20-43.1-blue?style=flat-square" alt="Project 1">
+    <img src="https://img.shields.io/badge/Project 1%20-Resume Ranker-blue?style=flat-square" alt="Project 1">
+    <img src="https://img.shields.io/badge/Project 2%20-Stock Price Prediction-blue?style=flat-square" alt="Project 2">
 </p>
 
 This repository contains two independent data-driven projects built using Python, Flask,streamlit, and machine learning libraries. Both projects demonstrate applied skills in NLP, deep learning, and web deployment.
