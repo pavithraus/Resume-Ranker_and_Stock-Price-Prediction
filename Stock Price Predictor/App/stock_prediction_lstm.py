@@ -2,7 +2,6 @@
 install required packages
 
 """
-
 !pip install yfinance keras scikit-learn matplotlib
 
 """**Import Modules and Set Seeds**"""
