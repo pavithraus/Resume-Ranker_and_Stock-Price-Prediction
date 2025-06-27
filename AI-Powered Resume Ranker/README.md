@@ -107,3 +107,8 @@ Integrating BERT-based semantic scoring
 Adding real-time feedback for resume improvements
 
 Connecting with job portals and HR systems.
+
+----
+## 📄 License
+
+This repository is open-sourced under the MIT License.
