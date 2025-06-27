@@ -56,6 +56,7 @@ Main packages (from requirements.txt):
 - yfinance
 
 Make sure to use compatible versions (e.g., TensorFlow 2.11, Keras 2.11) and NumPy < 2.0 for best stability.
+
 ---
 
 ## 📸 Screenshots & Visuals
@@ -69,13 +70,19 @@ Make sure to use compatible versions (e.g., TensorFlow 2.11, Keras 2.11) and Num
 - Local Host
 ---
 ## ✨ Features
+
 - 📦 Pre-trained LSTM model on stock data
+
 - 📂 Option to upload your own CSV
+
 - 🔁 Forecasting Modes:
-  -- Next N business days
-  -- Specific future date
-  -- Custom date range
+  - Next N business days
+  - Specific future date
+  - Custom date range
+
 - 📤 Download predictions as CSV
+
 - 📈 Visual comparison of predictions vs real data
+
 - 📊 Metrics: R² Score, RMSE, MAE
 
