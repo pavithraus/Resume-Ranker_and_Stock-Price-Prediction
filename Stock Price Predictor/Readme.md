@@ -1,11 +1,7 @@
 # 📈 LSTM-Based Stock Price Prediction.
 
-<p align="center">
-    <img src="https://img.shields.io/github/last-commit/pavithraus/Stock Price Predictor?style=flat-square" alt="Last Commit">
-    <img src="https://img.shields.io/github/languages/top/pavithraus/Stock Price Predictor?color=blue&style=flat-square" alt="Language">
-    <img
-src="https://img.shields.io/github/languages/count/pavithraus/Stock Price Predictor?style=flat-square" alt="Language Count">
-</p>
+An interactive stock prediction web app powered by an LSTM (Long Short-Term Memory) neural network. The app uses historical stock data to forecast future closing prices and is built using Streamlit for visualization.
+
 
 ---
 
@@ -17,9 +13,8 @@ src="https://img.shields.io/github/languages/count/pavithraus/Stock Price Predic
     <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/-Kera-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Keras">
 </p>
-
-An interactive stock prediction web app powered by an LSTM (Long Short-Term Memory) neural network. The app uses historical stock data to forecast future closing prices and is built using Streamlit for visualization.
 
 ---
 
