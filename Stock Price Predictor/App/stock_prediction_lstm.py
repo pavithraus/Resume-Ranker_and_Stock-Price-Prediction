@@ -1,4 +1,6 @@
-""Install required packages
+""" 
+install required packages
+
 """
 
 !pip install yfinance keras scikit-learn matplotlib
