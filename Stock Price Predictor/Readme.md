@@ -19,7 +19,7 @@ An interactive stock prediction web app powered by an LSTM (Long Short-Term Memo
 
 ## 📁 Folder Structure
 
-###stock_forecast_app
+### stock_forecast_app
 1. app
    - lstm_app.py # Streamlit dashboard application
    - stock_predictor.py # LSTM training script
