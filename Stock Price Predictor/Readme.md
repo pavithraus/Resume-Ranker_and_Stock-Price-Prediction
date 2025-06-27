@@ -114,4 +114,9 @@ The application highlights key machine learning concepts such as data preprocess
 
 Overall, the project provides a practical, hands-on approach to understanding the power and limitations of deep learning in financial forecasting.
 
+----
+
+## 📄 License
+
+This repository is open-sourced under the MIT License.
 
