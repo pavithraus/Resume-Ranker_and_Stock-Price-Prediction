@@ -7,14 +7,13 @@ An interactive stock prediction web app powered by an LSTM (Long Short-Term Memo
 
 ### Built with the tools and technologies:
 <p>
-    <img src="https://img.shields.io/badge/-Streamlit-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Streamlit">
-    <img src="https://img.shields.io/badge/-Tensorflow-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+    <img src="https://img.shields.io/badge/-Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+    <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
     <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
     <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/-Keras-00000?style=for-the-badge&logo=pandas&logoColor=white" alt="Keras">
-</p>
 
 ---
 
